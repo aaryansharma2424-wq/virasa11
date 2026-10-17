@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f6f2"/>
+  <path d="M712 0h488v630H690c71-99 99-199 66-299C728 221 692 125 712 0Z" fill="#e9e5dc"/>
+  <path d="M82 100h78" stroke="#a4774c" stroke-width="3"/>
+  <text x="82" y="159" fill="#171817" font-family="Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="9">VIRASA</text>
+  <text x="82" y="278" fill="#171817" font-family="Georgia,serif" font-size="65">Make every customer</text>
+  <text x="82" y="355" fill="#a4774c" font-family="Georgia,serif" font-size="74" font-style="italic">interaction count.</text>
+  <text x="82" y="423" fill="#62655f" font-family="Arial,sans-serif" font-size="23">NFC + QR review cards configured for your business.</text>
+  <text x="82" y="534" fill="#777972" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">ROOTED IN HERITAGE. BUILT FOR TOMORROW.</text>
+  <g transform="rotate(-7 907 321)">
+    <rect x="794" y="112" width="216" height="359" rx="4" fill="#fffefa" stroke="#c8c6bd" stroke-width="2"/>
+    <path d="M824 151h52" stroke="#a4774c" stroke-width="3"/>
+    <text x="824" y="184" fill="#171817" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="4">VIRASA</text>
+    <text x="824" y="216" fill="#74766f" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">YOUR BUSINESS, WITHIN REACH</text>
+    <path d="M824 239h156" stroke="#dedbd3" stroke-width="2"/>
+    <text x="824" y="286" fill="#343632" font-family="Arial,sans-serif" font-size="14" font-weight="700">TAP WITH NFC</text>
+    <text x="824" y="309" fill="#85867f" font-family="Arial,sans-serif" font-size="11">Hold a compatible phone nearby</text>
+    <text x="824" y="348" fill="#343632" font-family="Arial,sans-serif" font-size="14" font-weight="700">OR SCAN THE CODE</text>
+    <g transform="translate(919 365)"><rect width="58" height="58" fill="#f4f2ec"/><path d="M4 4h17v17H4zM8 8v9h9V8H8zm33-4h13v17H41zM45 8v9h9V8h-9zM4 41h17v13H4zM8 45v5h9v-5H8z" fill="#292b28"/><path d="M27 4h4v6h-4zm7 0h4v9h-4zm-7 12h6v4h-6zm8 8h5v5h-5zm11 4h6v4h-6zm-22 5h5v6h-5zm9 0h4v8h-4zm11 8h5v7h-5z" fill="#292b28"/></g>
+  </g>
+  <text x="814" y="518" fill="#73746e" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">ILLUSTRATIVE MOCKUP</text>
+</svg>

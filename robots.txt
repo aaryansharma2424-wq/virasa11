@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add a Sitemap line after VIRASA selects its public domain and sitemap location.

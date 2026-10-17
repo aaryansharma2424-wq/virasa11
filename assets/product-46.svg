@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" fill="none">
+  <ellipse cx="282" cy="279" rx="159" ry="19" fill="#bcb8ae" opacity=".35"/>
+  <g transform="rotate(-7 280 165)">
+    <rect x="187" y="30" width="187" height="278" rx="3" fill="#fffefa" stroke="#c8c6bd"/>
+    <path d="M211 65h39" stroke="#a4774c" stroke-width="2"/>
+    <text x="211" y="91" fill="#171817" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">VIRASA</text>
+    <text x="211" y="111" fill="#85867f" font-family="Arial,sans-serif" font-size="7" letter-spacing="1.4">YOUR BUSINESS, WITHIN REACH</text>
+    <path d="M211 127h138" stroke="#dedbd3"/>
+    <circle cx="224" cy="157" r="9" stroke="#a4774c"/>
+    <path d="M221 157h6m-3-3v6" stroke="#a4774c"/>
+    <text x="241" y="155" fill="#343632" font-family="Arial,sans-serif" font-size="7" font-weight="700">TAP WITH NFC</text>
+    <text x="241" y="166" fill="#85867f" font-family="Arial,sans-serif" font-size="6">Hold a compatible phone nearby</text>
+    <g transform="translate(290 184)">
+      <rect width="54" height="54" fill="#f4f2ec"/>
+      <path d="M3 3h15v15H3zM7 7v7h7V7H7zm29-4h15v15H36zM40 7v7h7V7h-7zM3 36h15v15H3zM7 40v7h7v-7H7z" fill="#292b28"/>
+      <path d="M22 3h4v4h-4zm7 0h3v8h-3zm-7 8h7v4h-7zm4 6h5v5h-5zm-7 4h4v4h-4zm16 3h5v4h-5zm-14 8h4v5h-4zm8 0h5v8h-5zm9 2h4v6h-4zm-18 8h5v4h-5zm10 0h4v6h-4zm9 8h5v4h-5z" fill="#292b28"/>
+    </g>
+    <text x="211" y="208" fill="#343632" font-family="Arial,sans-serif" font-size="7" font-weight="700">OR SCAN THE CODE</text>
+    <text x="211" y="220" fill="#85867f" font-family="Arial,sans-serif" font-size="6">Open your business review page</text>
+    <path d="M211 263h138" stroke="#dedbd3"/>
+    <text x="211" y="282" fill="#a4774c" font-family="Georgia,serif" font-size="10" font-style="italic">Rooted in heritage. Built for tomorrow.</text>
+  </g>
+</svg>
