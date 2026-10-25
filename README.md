@@ -91,12 +91,3 @@ If an image is missing, check its spelling and path under `assets/`. If a form o
 
 The `sitemap.xml` is intentionally not included yet because the public domain has not been chosen. The policy pages are conspicuously marked as drafts and need review before use as final terms.
 
-## Publish later with GitHub Pages
-
-1. Create a GitHub repository for the site. Keep the project files, including `index.html`, at the repository root.
-2. Add and commit the project files using GitHub Desktop or your preferred Git client, then push the commit to GitHub.
-3. On GitHub, open the repository’s **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, select the branch containing the site and choose **/(root)**, then save.
-4. Wait for the Pages deployment to finish. GitHub will show the published URL on the Pages settings screen. Open that URL and check the landing page, policy links, product images and WhatsApp forms.
-5. Set the final domain in the canonical and Open Graph tags and use the matching domain in your GitHub Pages custom-domain settings if you later configure one. Add the sitemap only once that domain is final.
-
-GitHub Pages can serve these static files without a paid application backend. It will not receive or manage orders: each visitor sends their enquiry to WhatsApp themselves. If you later need stored order records or payment processing, choose an appropriate backend and secure payment provider rather than collecting payment details in this static form.
